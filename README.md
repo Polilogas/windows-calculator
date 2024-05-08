@@ -4,6 +4,11 @@ This repository hosts a Python-based project that serves as a demonstration of m
 
 Utilizing the `tkinter` library for the graphical user interface, this calculator offers a simple yet powerful tool for performing a variety of mathematical operations.
 
+<p align="center">
+  <img src="/screenshot2.png" alt="A screenshot of the calculator">
+</p>
+
+
 ## Features
 
 - **Basic Arithmetic Operations**: Perform addition, subtraction, multiplication, and division with ease.
