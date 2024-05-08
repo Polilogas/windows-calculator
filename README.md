@@ -1,13 +1,26 @@
-# Python Calculator Project Update
+# Windows Calculator Clone
 
-Description:
+This repository hosts a Python-based project that aims to recreate the classic functionality of the Windows Calculator. Utilizing the `tkinter` library for the graphical user interface, this calculator offers a simple yet powerful tool for performing a variety of mathematical operations.
 
-Hello everyone! I'm excited to share an update on my Python calculator project. This project has been a journey of learning for me, as I delved into Python programming and GUI development using Tkinter.
+## Features
 
-I want to emphasize that this calculator is a work in progress, with approximately 75% of the intended functionality implemented. While basic operations like division are functional, some features are still in development.
+- **Basic Arithmetic Operations**: Perform addition, subtraction, multiplication, and division with ease.
+- **Advanced Mathematical Functions**: Access a range of mathematical functions, including square roots, exponents, and more, for complex calculations.
+- **User-Friendly Interface**: Inspired by the traditional Windows Calculator, this project boasts an intuitive interface that is easy for anyone to use.
+- **Keyboard Support**: For added convenience, users can input numbers and commands directly from their keyboard.
+- **Cross-Platform**: Being Python-based and utilizing `tkinter`, this calculator is cross-platform and can run on Windows, macOS, and Linux.
 
-One of the main challenges I encountered was structuring the code using classes, particularly in creating a Calculator class to organize the application's logic. Additionally, integrating Tkinter for the GUI proved to be a significant learning curve.
+## Getting Started
 
-Despite the difficulties, I'm proud of the progress I've made and the knowledge I've gained along the way. This project has been instrumental in deepening my understanding of Python and GUI development techniques.
+To get started with this calculator, clone the repository to your local machine:
 
-Thank you for following along on this journey, and I welcome any feedback or suggestions as I continue to refine and improve the calculator.
+git clone https://github.com/Polilogas/windows-calculator.git
+
+
+Ensure you have Python installed on your system. You can then run the calculator using:
+python calculator.py
+
+
+## Contributing
+
+Contributions to the Windows Calculator Clone are welcome! Whether it's adding new features, fixing bugs, or improving documentation, your help is appreciated. Please feel free to fork the repository and submit pull requests.
