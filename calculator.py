@@ -604,23 +604,23 @@ class Calculator(tk.Tk):
             self.writeIsEnabled = True
             self.bigResult.set(("{:,}".format(self.smallValue)).replace(",", "."))
 
-    # The following one is under development.
+    # TODO
     def negate(self):
         print("negate")
 
-    # The following one is under development.
+    # TODO
     def percent(self):
         print("percent")
 
-    # The following one is under development.
+    # TODO
     def comma(self):
         print("comma")
 
-    # The following one is under development.
+    # TODO
     def square(self):
         print("square")
 
-    # The following one is under development.
+    # TODO
     def one_div_x(self):
         print("1/x")
 
