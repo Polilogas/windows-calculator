@@ -1,6 +1,8 @@
 # Windows Calculator Clone
 
-This repository hosts a Python-based project that aims to recreate the classic functionality of the Windows Calculator. Utilizing the `tkinter` library for the graphical user interface, this calculator offers a simple yet powerful tool for performing a variety of mathematical operations.
+This repository hosts a Python-based project that serves as a demonstration of my Python skills. The project aims to recreate the classic functionality of the Windows Calculator. It's a learning and skill improvement exercise and not intended for commercial use. 
+
+Utilizing the `tkinter` library for the graphical user interface, this calculator offers a simple yet powerful tool for performing a variety of mathematical operations.
 
 ## Features
 
