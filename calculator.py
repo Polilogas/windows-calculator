@@ -48,7 +48,7 @@ class Calculator(tk.Tk):
         self.config(bg='#1f1f1f')           # Window background Color
         self.attributes('-alpha', 0.95)     # Window transparency
         self.resizable(False, False)        # If False, the user will not be allowed to resize the window
-        self.iconbitmap('Polilogas.ico')    # Set the icon on the title bar
+        #self.iconbitmap('logo.ico')    # Set the icon on the title bar
 
         # Set the button sizes
         self.buttonHeight = 2
@@ -604,23 +604,23 @@ class Calculator(tk.Tk):
             self.writeIsEnabled = True
             self.bigResult.set(("{:,}".format(self.smallValue)).replace(",", "."))
 
-    # The following one is under construction.
+    # The following one is under development.
     def negate(self):
         print("negate")
 
-    # The following one is under construction.
+    # The following one is under development.
     def percent(self):
         print("percent")
 
-    # The following one is under construction.
+    # The following one is under development.
     def comma(self):
         print("comma")
 
-    # The following one is under construction.
+    # The following one is under development.
     def square(self):
         print("square")
 
-    # The following one is under construction.
+    # The following one is under development.
     def one_div_x(self):
         print("1/x")
 
